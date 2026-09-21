@@ -1,4 +1,4 @@
-Minimal voice service wrapping the ElevenLabs API.
+"""Minimal voice service wrapping the ElevenLabs API.
 
 A classic Solutions Engineer pattern: put a vendor API behind your own REST
 service so a customer's app talks to one stable contract, and you control
